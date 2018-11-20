@@ -3,4 +3,4 @@
 "Between 
 holding a hand and
 chaining a soul"
-// ruotare per interagire
+// ruotare per interagire // funziona solo con mobile
